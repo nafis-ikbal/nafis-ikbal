@@ -22,8 +22,6 @@
 </div>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafis-ikbal&" alt="nafis-ikbal" /></p>
-
 ##  My Repositories:
 Click here [repositories](https://github.com/nafis-ikbal?tab=repositories)  to see my efforts! <br>
 I hope you will enjoy it!
