@@ -12,7 +12,7 @@
 ## 🛠 Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,c,java,vite,netlify,git,github)](https://skillicons.dev)
 
-	HTML, CSS, Tailwind CSS, JavaScript, React, Next JS, C, Java, Vite, Netifly, Git, Github
+	HTML, CSS, Tailwind CSS, JavaScript, React, Next JS, C, Java, Vite, Netlifly, Git, Github
 
 ## 📈 Github Stats:
 <p align="center">
